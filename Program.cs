@@ -6,7 +6,7 @@ namespace GitPractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World how are you!");
+            Console.WriteLine("Hello World hiiii yooooooooooooooooooo!");
         }
     }
 }
