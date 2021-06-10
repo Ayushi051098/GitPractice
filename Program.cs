@@ -6,7 +6,10 @@ namespace GitPractice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World hiiii yooooooooooooooooooo!");
+            Console.WriteLine("Hello World hiiii !");
+            Console.WriteLine("changes done on git hub");
+            Console.WriteLine("git hub");
+            Console.WriteLine("changes done on vs");
         }
     }
 }
