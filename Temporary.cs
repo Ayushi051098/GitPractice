@@ -8,5 +8,6 @@ namespace GitPractice
 {
     class Temporary
     {
+        Console.Writeline("Hii")
     }
 }
